@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7512713-a2bf-4fda-8bf9-0222267ad023" name="Default Changelist" comment="" />
+    <list default="true" id="d7512713-a2bf-4fda-8bf9-0222267ad023" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_duplicates_from_array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-data-structures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-data-structures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/linked-list.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1i3kJ1hmzdU7rkcrFu9ZiDWMsZG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,10 +32,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.linked-list">
+  <component name="RunManager" selected="Python.remove_duplicates_from_array">
     <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-data-structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="remove_duplicates_from_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-data-structures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +118,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trees.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/remove_duplicates_from_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.remove_duplicates_from_array" />
         <item itemvalue="Python.linked-list" />
         <item itemvalue="Python.trie_leetcode" />
         <item itemvalue="Python.Trie" />
         <item itemvalue="Python.BinaryTree" />
-        <item itemvalue="Python.trees" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +186,9 @@
       <workItem from="1605704865895" duration="3962000" />
       <workItem from="1606724968738" duration="10117000" />
       <workItem from="1607606698753" duration="691000" />
+      <workItem from="1607610896326" duration="6995000" />
+      <workItem from="1607964322277" duration="2323000" />
+      <workItem from="1608875472218" duration="6000" />
     </task>
     <servers />
   </component>
@@ -180,26 +196,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="323" key="GridCell.Tab.0.bottom" timestamp="1607152371602">
+    <state width="1493" height="323" key="GridCell.Tab.0.bottom" timestamp="1607968432368">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="1493" height="323" key="GridCell.Tab.0.bottom/0.30.1536.834/1920.0.1304.768@0.30.1536.834" timestamp="1607152371602" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1606729882339" />
-    <state width="1493" height="323" key="GridCell.Tab.0.center" timestamp="1607152371602">
+    <state width="1493" height="323" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1607968432368" />
+    <state width="1493" height="323" key="GridCell.Tab.0.center" timestamp="1607968432367">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="1493" height="323" key="GridCell.Tab.0.center/0.30.1536.834/1920.0.1304.768@0.30.1536.834" timestamp="1607152371602" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1606729882334" />
-    <state width="1493" height="323" key="GridCell.Tab.0.left" timestamp="1607152371602">
+    <state width="1493" height="323" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1607968432367" />
+    <state width="1493" height="323" key="GridCell.Tab.0.left" timestamp="1607968432367">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="1493" height="323" key="GridCell.Tab.0.left/0.30.1536.834/1920.0.1304.768@0.30.1536.834" timestamp="1607152371602" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1606729882334" />
-    <state width="1493" height="323" key="GridCell.Tab.0.right" timestamp="1607152371602">
+    <state width="1493" height="323" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1607968432367" />
+    <state width="1493" height="323" key="GridCell.Tab.0.right" timestamp="1607968432367">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="1493" height="323" key="GridCell.Tab.0.right/0.30.1536.834/1920.0.1304.768@0.30.1536.834" timestamp="1607152371602" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1606729882334" />
+    <state width="1493" height="323" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1607968432367" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1601200521377">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -216,17 +232,23 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.30.1536.834@0.30.1536.834" timestamp="1601200521377" />
-    <state x="465" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1607607022080">
+    <state x="277" y="91" key="SettingsEditor" timestamp="1607610933738">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="277" y="91" key="SettingsEditor/0.30.1536.834/1920.0.1304.768@0.30.1536.834" timestamp="1607610933738" />
+    <state x="465" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1608875473950">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="465" y="273" key="com.intellij.ide.util.TipDialog/0.30.1536.834/1920.0.1304.768@0.30.1536.834" timestamp="1607607022080" />
-    <state x="465" y="273" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1606724969193" />
+    <state x="465" y="273" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1608875473950" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_data_structures$trie_leetcode.coverage" NAME="trie_leetcode Coverage Results" MODIFIED="1605707187318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_data_structures$trees.coverage" NAME="trees Coverage Results" MODIFIED="1605707145862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_data_structures$Trie.coverage" NAME="Trie Coverage Results" MODIFIED="1605707175810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_data_structures$BinaryTree.coverage" NAME="BinaryTree Coverage Results" MODIFIED="1605707162646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_structures$linked_list.coverage" NAME="linked-list Coverage Results" MODIFIED="1607968408142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Data_structures$remove_duplicates_from_array.coverage" NAME="remove_duplicates_from_array Coverage Results" MODIFIED="1607968432349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_data_structures$linked_list.coverage" NAME="linked-list Coverage Results" MODIFIED="1607607169237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
